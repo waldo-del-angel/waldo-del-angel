@@ -21,7 +21,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/waldo-del-angel/waldo-del-angel/output/snake.svg" alt="Snake animation" />
-
-###
