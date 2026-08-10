@@ -15,9 +15,3 @@
 <p align="left">Soy Ingeniero en Sistemas desde 2019<br><br>Trabajo con el marco multiplataforma de .NET, más enfocado al desarrollo backend. He realizado varios proyectos como desarrollo de API's a través de ASP.NET y diseño de bases de datos con Microsoft SQL Server.<br><br>También he trabajado en la parte del desarrollo frontend utilizando Blazor y Tailwind CSS.</p>
 
 ###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=waldo-del-angel&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
